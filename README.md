@@ -14,7 +14,7 @@ $ git clone https://github.com/IkramTi/ReactJSMongoDBAuthentication.git
 ```
 Se mettre dans le dossier de l'application :
 ```
-$ cd PFA2017
+$ cd ReactJSMongoDBAuthentication
 ```
 Installer les dépendances de l'application :
 ```
